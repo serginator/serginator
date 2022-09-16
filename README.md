@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Telefonica Tech**
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning**, and refreshing knowledge on **React** and **Redux**
 
 - 💬 Ask me about **JavaScript, HTML5, CSS3, Node.js, Python, Unix, Pentesting**
 
